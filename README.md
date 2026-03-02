@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Vadodara,%20Gujarat,%20India-FF1493?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Vadodara,%20Gujarat,%20India-FF1493?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=kandarp10&label=PROFILE+VIEWS&color=0e76a8&style=flat" alt="Visitor Count" />
 </p>
