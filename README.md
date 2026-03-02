@@ -1,16 +1,95 @@
-## Hi there 👋
+# <p align="center">Hi there, I'm Kandarp Prajapati 👋</p>
 
-<!--
-**kandarp10/kandarp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kandarp10&label=PROFILE+VIEWS&color=0e76a8&style=flat" alt="Visitor Count" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💫 About Me
+
+- 🔭 I’m currently working on **Awesome Project X**
+- 🌱 I’m currently learning **Advanced System Design**
+- 💬 Ask me about **React, Node.js, or Cloud Architecture**
+- ⚡ Fun fact: **I drink more coffee than water ☕**
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,css,tailwindcss,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,graphql,prisma&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kandarp10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarp10&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandarp10&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 My Coding Journey
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kandarp10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarp10&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kandarp10/typescript-starter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kandarp10&repo=typescript-starter&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 💭 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
+
+---
+
+### 🤝 Connect & Support
+
+<p align="center">
+  <a href="https://linkedin.com/in/kandarp-prajapati-75699720a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/[YOUR_TWITTER]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/[YOUR_ID]">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/kandarp10">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
