@@ -4,8 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kandarp10&label=PROFILE+VIEWS&color=0e76a8&style=flat" alt="Visitor Count" />
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Vadodara,%20Gujarat,%20India-39FF14?style=flat-square&logo=googlemaps&logoColor=black" alt="Location" />
+  &nbsp;
+  <img src="https://pixel-counter.vercel.app/api/count.svg?id=kandarp10&color=39FF14&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
