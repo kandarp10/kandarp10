@@ -45,6 +45,19 @@
 
 ---
 
+### 📈 Activity & Commit Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kandarp10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commits%20Overview" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandarp10&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kandarp10&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
+
+---
+
 ### 📊 My Coding Journey
 
 <p align="center">
